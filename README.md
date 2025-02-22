@@ -1,4 +1,6 @@
-Here is my full representation of an online library management system in C++. The requirements are:
+Here is my full representation of an online library management system in C++. For best experiences, you should use Visual Studio IDE and run it on terminal (Front-end and back-end will be updated soon)
+
+The requirements and features are:
 1. User management system
 - There are 3 types of user: administrator, member and guest
 - Administrator should be able to manage books (add, show, hide, remove, edit, manage book collections)
